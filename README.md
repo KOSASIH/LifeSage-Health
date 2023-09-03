@@ -13,6 +13,7 @@ Telehealth and Remote Patient Monitoring Platform app
  3. [Our Technologies](#our-technologies)    
  4. [Problems We Hope To Solve](#problems-we-hope-to-solve)
  5. [Our Rodmap](#our-roadmap)
+ 6. [AKNOWLEDGMENT](https://github.com/KOSASIH/LifeSage-Health/blob/main/Docs/AKNOWLEDGMENT.txt) 
   
 # Description
 
