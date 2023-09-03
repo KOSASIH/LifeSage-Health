@@ -49,11 +49,11 @@ LifeSage Health is committed to redefining healthcare delivery by harnessing the
 
 Here are vision and mission statements for "LifeSage Health," the Telehealth and Remote Patient Monitoring Platform:
 
-##**Vision Statement**:
+## Vision Statement:
 
 "To redefine the future of healthcare by pioneering innovative telehealth and remote patient monitoring solutions that empower individuals to lead healthier lives, enable seamless access to healthcare services, and foster a world where healthcare is patient-centered, accessible, and effective."
 
-##**Mission Statement**:
+## Mission Statement:
 
 "At LifeSage Health, our mission is to harness the transformative power of technology to create a connected healthcare ecosystem where:
 
