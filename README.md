@@ -7,6 +7,7 @@ Telehealth and Remote Patient Monitoring Platform app
 # [Description](#description)
   - [Key Features](#key-features)
   - [Target Audiences](#target-audiences)
+  - 
 # Description
 
 LifeSage Health is a revolutionary telehealth and remote patient monitoring platform designed to bring accessible, efficient, and high-quality healthcare to patients wherever they are. Our platform leverages cutting-edge technology to connect patients with experienced healthcare providers and empowers individuals to take control of their health through remote monitoring and engagement.
@@ -33,7 +34,7 @@ LifeSage Health is a revolutionary telehealth and remote patient monitoring plat
 
 10. **Insurance Integration**: LifeSage Health allows users to verify their insurance coverage within the app. Patients can submit insurance claims, check their benefits, and view coverage details, making the financial aspect of healthcare more transparent and accessible.
 
-## Target Audiences :
+## Target Audiences:
 
 - **Patients**: Individuals seeking convenient, accessible, and high-quality healthcare services.
 - **Healthcare Providers**: Doctors, specialists, therapists, and healthcare institutions looking for a secure and efficient telehealth and remote patient monitoring solution.
