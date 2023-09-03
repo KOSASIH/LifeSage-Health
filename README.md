@@ -4,10 +4,10 @@ Telehealth and Remote Patient Monitoring Platform app
 
 # Contents 
 
-## [Description](#description)
+1. [Description](#description)
   - [Key Features](#key-features)
   - [Target Audiences](#target-audiences)
- ## [Vision And Mission](#vision-and-mission) 
+2. [Vision And Mission](#vision-and-mission) 
   - [Vision](#vison-statement)
   - [Mission](#mission-statement)
     
