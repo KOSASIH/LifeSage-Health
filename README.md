@@ -71,4 +71,4 @@ Here are vision and mission statements for "LifeSage Health," the Telehealth and
 
 7. **Partnership and Collaboration**: We foster partnerships with healthcare providers, institutions, and organizations to create a network of care that supports holistic well-being.
 
-Through our unwavering commitment to these principles, we aim to transform healthcare into a proactive, patient-centric, and technology-driven experience, improving the health and quality of life for individuals and communities worldwide.
+Through our unwavering commitment to these principles, we aim to transform healthcare into a proactive, patient-centric, and technology-driven experience, improving the health and quality of life for individuals and communities worldwide."
